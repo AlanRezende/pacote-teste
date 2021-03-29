@@ -1,0 +1,23 @@
+{
+  "name": "pacote-teste-alanrezende",
+  "version": "1.0.0",
+  "description": "Apenas mais um pacote NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlanRezende/pacote-teste.git"
+  },
+  "keywords": [
+    "pacote",
+    "teste"
+  ],
+  "author": "Alan Rezende",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlanRezende/pacote-teste/issues"
+  },
+  "homepage": "https://github.com/AlanRezende/pacote-teste#readme"
+}
