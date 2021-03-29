@@ -1,6 +1,6 @@
 {
   "name": "pacote-teste-alanrezende",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Apenas mais um pacote NPM",
   "main": "index.js",
   "scripts": {
